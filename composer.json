@@ -1,0 +1,12 @@
+{
+    "name": "inchoo/xternal",
+    "description": "Allow external CSS and JS files to be added or removed layout handle.",
+    "license": "OSL-3.0",
+    "authors": [
+        { "name": "Darrell Starnes", "email": "darrell.starnes@fwmedia.com", "role": "Developer" }
+    ],
+    "type": "magento-module",
+    "require": {
+        "php": ">=5.6.0"
+    }
+}
